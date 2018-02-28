@@ -1,4 +1,4 @@
 # shorten-url
 
-Microserver to shorten url. 
+Microservice to shorten url. 
 Powered by express.
