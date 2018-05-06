@@ -4,8 +4,7 @@ var util = require('../lib/util');
 
 
 router.post('/', function(req, res, next) {
-  let url = req.params.url;
-  
+  var url = req.params.url;
 });
 
 /* GET URL. */
